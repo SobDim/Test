@@ -11,4 +11,8 @@
 
 // 5
 console.log({});
+
 console.log([]);
+
+
+console.log(x => x * 2);
